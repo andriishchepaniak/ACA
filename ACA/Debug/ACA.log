@@ -1,0 +1,27 @@
+﻿  ACA.cpp
+D:\Progi\C++\ACA\ACA\ACA.cpp(110,31): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\Progi\C++\ACA\ACA\ACA.cpp(114,31): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\Progi\C++\ACA\ACA\ACA.cpp(213,46): warning C4244: '+=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+D:\Progi\C++\ACA\ACA\ACA.cpp(215,46): warning C4244: '+=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+D:\Progi\C++\ACA\ACA\ACA.cpp(276,24): warning C4018: '<': signed/unsigned mismatch
+D:\Progi\C++\ACA\ACA\ACA.cpp(278,25): warning C4018: '<': signed/unsigned mismatch
+D:\Progi\C++\ACA\ACA\ACA.cpp(286,24): warning C4018: '<': signed/unsigned mismatch
+D:\Progi\C++\ACA\ACA\ACA.cpp(288,25): warning C4018: '<': signed/unsigned mismatch
+D:\Progi\C++\ACA\ACA\ACA.cpp(296,24): warning C4018: '<': signed/unsigned mismatch
+D:\Progi\C++\ACA\ACA\ACA.cpp(298,25): warning C4018: '<': signed/unsigned mismatch
+D:\Progi\C++\ACA\ACA\ACA.cpp(332,24): warning C4018: '<': signed/unsigned mismatch
+D:\Progi\C++\ACA\ACA\ACA.cpp(334,25): warning C4018: '<': signed/unsigned mismatch
+D:\Progi\C++\ACA\ACA\ACA.cpp(336,30): warning C4018: '<': signed/unsigned mismatch
+D:\Progi\C++\ACA\ACA\ACA.cpp(352,17): warning C4018: '<': signed/unsigned mismatch
+D:\Progi\C++\ACA\ACA\ACA.cpp(359,13): warning C4018: '<': signed/unsigned mismatch
+D:\Progi\C++\ACA\ACA\ACA.cpp(388,20): warning C4018: '<': signed/unsigned mismatch
+D:\Progi\C++\ACA\ACA\ACA.cpp(400,20): warning C4018: '<': signed/unsigned mismatch
+  ACA.vcxproj -> D:\Progi\C++\ACA\Debug\ACA.exe
